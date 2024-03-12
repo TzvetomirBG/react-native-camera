@@ -1,1 +1,1 @@
-react-native-camera third branch1
+react-native-camera third for branch1 and branch2
